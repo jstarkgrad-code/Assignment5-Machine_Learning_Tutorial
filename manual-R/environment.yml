@@ -10,3 +10,4 @@ dependencies:
 - r-ggplot2
 - r-randomforest
 - r-ellipse
+- r-kernlab
