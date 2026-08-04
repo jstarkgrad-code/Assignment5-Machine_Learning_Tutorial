@@ -1,0 +1,11 @@
+name: 7030_class_5_r
+channels: 
+- conda-forge
+- defaults
+dependencies: 
+- jupyterlab
+- r-base=4.3
+- r-irkernel
+- r-caret
+- r-ggplot2
+- r-randomforest
