@@ -1,0 +1,14 @@
+name: 7030_class_5
+channels: 
+- bioconda 
+- conda-forge
+- defaults
+dependencies: 
+- python=3.10
+- jupyterlab
+- ipykernel
+- scipy
+- numpy
+- matplotlib
+- pandas
+- scikit-learn
