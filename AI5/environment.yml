@@ -1,0 +1,19 @@
+name: ai5_iris_ml
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - jupyterlab
+  - ipykernel
+  - scipy
+  - numpy
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - r-base=4.3
+  - r-irkernel
+  - r-caret
+  - r-ggplot2
+  - r-randomforest
+  - r-kernlab
